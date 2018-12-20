@@ -1,0 +1,9 @@
+name: "Recycling at Penn"
+output_dir: "."
+navbar:
+  title: "Recycling at Penn"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
